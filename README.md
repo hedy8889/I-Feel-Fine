@@ -46,7 +46,7 @@ ios_swiftフォルダにこの本のサンプルコードが入っています(i
 * SharedData
 
 ### 【サンプル9】メモリ上の共有領域にデータを保存するアプリ
-
+cdsgggh
 * TableViewとCollectionViewを元に修正する
 
 ### 【サンプル10】NSKeyedArchiverを使ってデータをファイルに保存するアプリ
